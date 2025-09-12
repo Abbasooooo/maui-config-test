@@ -1,0 +1,5 @@
+{
+  "ConnectionString": "EncryptedValue1",
+  "Username": "EncryptedValue2",
+  "ServerAddress": "EncryptedValue3"
+} 
