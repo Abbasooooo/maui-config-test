@@ -1,7 +1,6 @@
 {
   "AllowedEmails": [
-    "Abbasmirzaeinia@example.com",
-    "dev@example.com"
+    "Abbasmirzaeinia@example.com"
   ],
   "AdminCredentials": [
     {
