@@ -1,1 +1,7 @@
-{"AllowedEmails":["fffff","566565","99999"],"AdminUsers":{"User":"vaFU8ahhvySoJNsufwsS9Q=="},"AdminPasswords":{"Password":"OsmmHdsJUYKq\u002B/nPcfshiw=="}}
+{
+  "AllowedEmails": ["admin@example.com", "dev@example.com"],
+  "AdminCredentials": {
+    "User": "EncryptedPassword1",
+    "User2": "EncryptedPassword2"
+  }
+}
