@@ -1,7 +1,20 @@
 {
-  "AllowedEmails": ["admin@example.com", "dev@example.com"],
+  "AllowedEmails": [
+    "admin@example.com",
+    "dev@example.com"
+  ],
   "AdminCredentials": [
-    { "Username": "admin1", "Password": "EncryptedPass1" },
-    { "Username": "admin2", "Password": "EncryptedPass2" }
+    {
+      "Username": "QGoKU77RAL4B1RPViIZI5g==",
+      "Password": "QGoKU77RAL4B1RPViIZI5g=="
+    },
+    {
+      "Username": "QGoKU77RAL4B1RPViIZI5g==",
+      "Password": "QGoKU77RAL4B1RPViIZI5g=="
+    },
+    {
+      "Username": "vbNx5FHaJPK018hfHqx\u002BtQ==",
+      "Password": "iLi78AidSeB81mMkfyCNWQ=="
+    }
   ]
 }
