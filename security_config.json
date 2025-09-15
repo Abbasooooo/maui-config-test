@@ -1,7 +1,10 @@
 {
-  "AllowedEmails": ["admin@example.com", "dev@example.com"],
+  "AllowedEmails": [
+    "admin@example.com",
+    "dev@example.com"
+  ],
   "AdminCredentials": {
-    "User": "EncryptedPassword1",
-    "User2": "EncryptedPassword2"
+    "User": "slHLiMt9iZCsYm7EORdb5w==",
+    "User2": "QGoKU77RAL4B1RPViIZI5g=="
   }
 }
